@@ -29,12 +29,12 @@ For general infos or useful guide
 
 For create a new note on database
 
-> ./clilab new
+> ./clilab note new
 
 For list all notes from database
 
-> ./clilab list
+> ./clilab note list
 
 For delete a specific note 
 
-> ./clilab del
+> ./clilab note del
